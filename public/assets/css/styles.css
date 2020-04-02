@@ -1,0 +1,63 @@
+a {
+  color : white !important;
+}
+
+#aHeaderListe {
+  color : #c14040 !important;
+}
+
+#aHeaderType {
+  color : #c14040 !important;
+}
+
+#body-body {
+  background-color: #982c2c;
+  font-family: 'Bree Serif', serif;
+}
+
+#body-section {
+  background-color : #c14040;
+}
+
+#head-bar {
+  border-radius: 1.5rem;
+}
+
+#padding-head-bar {
+  padding: 1rem;
+}
+
+#card-background {
+  background-color: #982c2c !important;
+  border-radius: 3em;
+}
+
+#detail-stat {
+  background-color: #ab3838;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+div#pokemon-type > div.pokemon-type-class {
+  width : 10% !important;
+  text-align : center !important;
+  border-radius : 1rem !important;
+}
+
+div.container > div.stats-detail {
+  line-height: 1;
+  margin: 1rem;
+}
+
+div.col-9 > div.bar-height {
+  height: 1.5rem;
+}
+
+div.container > div.row > div.text-height {
+  height: 1.5rem;
+  line-height: 1.5rem;
+}
+
+div.container-fluid > div.container-fluid > div.head-color {
+  color : #c14040;
+}
